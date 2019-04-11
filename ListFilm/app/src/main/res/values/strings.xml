@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListFilm</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_detail_film">DetailFilm</string>
+    <string name="title_activity_add__films">Add_Films</string>
+    <string name="title_activity_list__film">List_Film</string>
+    <string name="title_activity_update__film">Update_Film</string>
+</resources>
